@@ -3,6 +3,17 @@
 My name is Jack, I am a 21 year old Full Stack Software Development student from Ireland 🇮🇪 . I am passionate about software development and hope to land my first role as a developer in the near future!
 I also hold a bachelors degree in Music Technology and Production from Limerick Institute of Technology.
 
+## Technologies I know :
+- HTML
+- CSS
+- JavaScript
+- GIT
+- GitHub
+
+## Technologies I am learning :
+- React
+- Python
+- Django
 
 ## Some additional info about me :
 - 👾 I’m currently working on my second portfolio project with Code Institute.
