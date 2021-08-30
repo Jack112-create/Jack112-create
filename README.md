@@ -1,6 +1,6 @@
 # Who am I?
 
-My name is Jack, I am a 21 year old Full Stack Software Development student from Ireland 🇮🇪 . I am passionate about software development and hope to land my first role as a developer in the near future!
+My name is Jack Conroy, I am a 21 year old Full Stack Software Development student from Ireland 🇮🇪 . I am passionate about software development and hope to land my first role as a developer in the near future!
 
 I also hold a bachelors degree in Music Technology and Production from Limerick Institute of Technology.
 
