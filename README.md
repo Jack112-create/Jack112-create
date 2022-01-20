@@ -8,16 +8,19 @@ I also hold a bachelors degree in Music Technology and Production from Limerick 
 - HTML
 - CSS
 - JavaScript
+- Python
 - GIT
 - GitHub
+- Bootstrap
+- Flask
+- PostgreSQL
+-
 
 ## Technologies I am learning :
-- React
-- Python
 - Django
 
 ## Some additional info about me :
-- 👾 I’m currently working on my second portfolio project with Code Institute.
+- 👾 I’m currently working on my fourth portfolio project with Code Institute.
 - 👨🏻‍💻 I’m currently enrolled in a Full Stack Software Development Bootcamp with Code Institute. 
 - 🤝 I’m looking to collaborate with anyone! I love to work in teams as it allows me to learn from others so that I can better myself as a developer, and as a person.
 
